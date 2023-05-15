@@ -1,6 +1,6 @@
 <h1>0x00. Fix my code</h1>
 
-<h3>ALX SE project to jump into existing code bases of different pieces of code, written in different languages, and fix several issues with the codes.</h3>
+<h3>ALX SE project to fix different pieces of code, written in different languages.</h3>
 
 <ol>
 <li>TASK 0 - An implementation of "FizzBuzz" written in Python</li>
